@@ -1,0 +1,18 @@
+page-home { 
+    .header ion-title{
+        text-align: center;
+    }
+    .listToDo{
+        .item{
+            background-color: #566573;
+            font-size: small;
+        }
+        .item #date{
+            font-style: italic;
+            font-size: smaller;
+            text-align: right;
+            width: 50px;
+        }
+    }   
+    
+}
